@@ -11,9 +11,9 @@ model. Implemented core software components for calibration, bounding box prunin
 ![](Workflow.JPG)
 
 ## Results
-#### Sample 2D Image Scan
+### Sample 2D Image Scan
 ![](color.png)
 ![](frame.png)
 
-#### Final 3D model
+### Final 3D model
 ![](Final.JPG)
