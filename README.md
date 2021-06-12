@@ -8,9 +8,12 @@ from the angles left and right. These images are manipulated to generate mesh an
 model. Implemented core software components for calibration, bounding box pruning, neighbor smoothing, triangulation, mesh smoothing, mesh generation, mesh cleaning, and combining meshes. Performed visualization in 3D and 2D views. Used MeshLab software for mesh alignment and Poisson Surface reconstruction.
 
 ## Project Pipeline
-
+![](Workflow.JPG)
 
 ## Results
 #### Sample 2D Image Scan
+![](color.png)
+![](frame.png)
 
 #### Final 3D model
+![](Final.jpg)
