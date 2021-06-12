@@ -16,4 +16,4 @@ model. Implemented core software components for calibration, bounding box prunin
 ![](frame.png)
 
 #### Final 3D model
-![](Final.jpg)
+![](Final.JPG)
